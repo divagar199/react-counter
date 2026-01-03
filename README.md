@@ -5,7 +5,7 @@ A dynamic Counter Application built with **React**, featuring advanced CSS anima
 This project is version controlled with **Git** and deployed live on **Vercel**.
 
 ## 🚀 Live Demo
-### [👉 Click here to view the Live App](https://divagar199.vercel.app)
+### [👉 Click here to view the Live App](https://react-counter-rosy.vercel.app/)
 
 ---
 
